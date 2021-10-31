@@ -1,5 +1,5 @@
 {
-  "name": "observe-visibility",
+  "name": "react-observe-visibility",
   "version": "1.0.0",
   "description": "Observe React component visibility in the viewport or visibility relative to an ancestor",
   "main": "index.ts",
@@ -15,6 +15,7 @@
     "observe",
     "observer",
     "observe-visibility",
+    "react-observe-visibility",
     "observe-component-visibility"
   ],
   "author": "Tahmid Shakil",

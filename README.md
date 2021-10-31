@@ -7,7 +7,12 @@ Observe React component visibility in the viewport or visibility relative to an 
 ## Installation
 
 ```sh
+$ npm install react-observe-visibility
+  # or
 $ npm install observe-visibility
+  # or
+$ yarn add react-observe-visibility
+  # or
 $ yarn add observe-visibility
 ```
 
