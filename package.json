@@ -1,0 +1,31 @@
+{
+  "name": "observe-visibility",
+  "version": "1.0.0",
+  "description": "Observe React component visibility in the viewport or visibility relative to an ancestor",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atshakil/observe-visibility.git"
+  },
+  "keywords": [
+    "react",
+    "observe",
+    "observer",
+    "observe-visibility",
+    "observe-component-visibility"
+  ],
+  "author": "Tahmid Shakil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atshakil/observe-visibility/issues"
+  },
+  "homepage": "https://github.com/atshakil/observe-visibility#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "classnames": "^2.3.1",
+    "react": "^17.0.2"
+  }
+}
